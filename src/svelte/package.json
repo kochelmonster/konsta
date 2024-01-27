@@ -4,5 +4,10 @@
   "jsnext:main": "./konsta-svelte.js",
   "types": "./konsta-svelte.d.ts",
   "module": "./konsta-svelte.js",
-  "svelte": "./konsta-svelte.js"
+  "svelte": "./konsta-svelte.js",
+  "export": {
+    ".": {
+      "svelte": "./konsta-svelte.js"
+    }
+  }
 }

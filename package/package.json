@@ -35,6 +35,9 @@
       "import": "./svelte/konsta-svelte.js"
     },
     "./config": "./config.js",
-    "./config.js": "./config.js"
+    "./config.js": "./config.js",
+    ".": {
+      "svelte": "./svelte/konsta-svelte.js"
+    }
   }
 }
